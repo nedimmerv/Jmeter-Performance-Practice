@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1664438633517,986,FileUpload,200,OK,FileUploadTest 1-2,text,true,,3907,534731,20,20,http://practice.cybertekschool.com/upload,986,0,125
+1664438633564,998,FileUpload,200,OK,FileUploadTest 1-3,text,true,,3907,534740,19,19,http://practice.cybertekschool.com/upload,998,0,172
+1664438633610,977,FileUpload,200,OK,FileUploadTest 1-4,text,true,,3907,534749,18,18,http://practice.cybertekschool.com/upload,977,0,127
+1664438633656,988,FileUpload,200,OK,FileUploadTest 1-5,text,true,,3907,534749,17,17,http://practice.cybertekschool.com/upload,988,0,124
+1664438633706,980,FileUpload,200,OK,FileUploadTest 1-6,text,true,,3907,534755,16,16,http://practice.cybertekschool.com/upload,980,0,128
+1664438633455,1260,FileUpload,200,OK,FileUploadTest 1-1,text,false,"The operation lasted too long: It took 1,260 milliseconds, but should not have lasted longer than 1,200 milliseconds.",3907,534749,15,15,http://practice.cybertekschool.com/upload,1260,0,165
+1664438633756,1020,FileUpload,200,OK,FileUploadTest 1-7,text,true,,3907,534761,14,14,http://practice.cybertekschool.com/upload,1020,0,126
+1664438633807,984,FileUpload,200,OK,FileUploadTest 1-8,text,true,,3907,534746,13,13,http://practice.cybertekschool.com/upload,984,0,122
+1664438633857,1011,FileUpload,200,OK,FileUploadTest 1-9,text,true,,3907,534758,12,12,http://practice.cybertekschool.com/upload,1010,0,126
+1664438633905,1010,FileUpload,200,OK,FileUploadTest 1-10,text,true,,3907,534740,11,11,http://practice.cybertekschool.com/upload,1010,0,134
+1664438633957,1012,FileUpload,200,OK,FileUploadTest 1-11,text,true,,3907,534734,10,10,http://practice.cybertekschool.com/upload,1012,0,129
+1664438634006,1044,FileUpload,200,OK,FileUploadTest 1-12,text,true,,3907,534746,9,9,http://practice.cybertekschool.com/upload,1044,0,136
+1664438634158,1014,FileUpload,200,OK,FileUploadTest 1-15,text,true,,3907,534734,8,8,http://practice.cybertekschool.com/upload,1014,0,136
+1664438634056,1128,FileUpload,200,OK,FileUploadTest 1-13,text,true,,3907,534761,7,7,http://practice.cybertekschool.com/upload,1128,0,128
+1664438634257,1006,FileUpload,200,OK,FileUploadTest 1-17,text,true,,3907,534731,6,6,http://practice.cybertekschool.com/upload,1005,0,140
+1664438634304,1011,FileUpload,200,OK,FileUploadTest 1-18,text,true,,3907,534740,5,5,http://practice.cybertekschool.com/upload,1011,0,155
+1664438634206,1109,FileUpload,200,OK,FileUploadTest 1-16,text,true,,3907,534755,5,5,http://practice.cybertekschool.com/upload,1109,0,126
+1664438634106,1209,FileUpload,200,OK,FileUploadTest 1-14,text,false,"The operation lasted too long: It took 1,209 milliseconds, but should not have lasted longer than 1,200 milliseconds.",3907,534737,5,5,http://practice.cybertekschool.com/upload,1209,0,123
+1664438634356,1006,FileUpload,200,OK,FileUploadTest 1-19,text,true,,3907,534749,2,2,http://practice.cybertekschool.com/upload,1006,0,148
+1664438634405,1038,FileUpload,200,OK,FileUploadTest 1-20,text,true,,3907,534758,1,1,http://practice.cybertekschool.com/upload,1038,0,156
+1664438785481,1110,FileUpload,200,OK,FileUploadTest 1-1,text,true,,3907,534743,20,20,http://practice.cybertekschool.com/upload,1110,0,161
+1664438785581,1060,FileUpload,200,OK,FileUploadTest 1-3,text,true,,3907,534752,19,19,http://practice.cybertekschool.com/upload,1060,0,126
+1664438785632,1091,FileUpload,200,OK,FileUploadTest 1-4,text,true,,3907,534737,18,18,http://practice.cybertekschool.com/upload,1091,0,128
+1664438785535,1188,FileUpload,200,OK,FileUploadTest 1-2,text,true,,3907,534749,18,18,http://practice.cybertekschool.com/upload,1188,0,124
+1664438785733,1115,FileUpload,200,OK,FileUploadTest 1-6,text,true,,3907,534737,16,16,http://practice.cybertekschool.com/upload,1115,0,126
+1664438785782,1113,FileUpload,200,OK,FileUploadTest 1-7,text,true,,3907,534746,15,15,http://practice.cybertekschool.com/upload,1113,0,124
+1664438785831,1105,FileUpload,200,OK,FileUploadTest 1-8,text,true,,3907,534740,14,14,http://practice.cybertekschool.com/upload,1104,0,125
+1664438785881,1110,FileUpload,200,OK,FileUploadTest 1-9,text,true,,3907,534737,13,13,http://practice.cybertekschool.com/upload,1110,0,133
+1664438785931,1117,FileUpload,200,OK,FileUploadTest 1-10,text,true,,3907,534746,12,12,http://practice.cybertekschool.com/upload,1117,0,122
+1664438785982,1123,FileUpload,200,OK,FileUploadTest 1-11,text,true,,3907,534737,11,11,http://practice.cybertekschool.com/upload,1123,0,129
+1664438786032,1148,FileUpload,200,OK,FileUploadTest 1-12,text,true,,3907,534743,10,10,http://practice.cybertekschool.com/upload,1148,0,164
+1664438786081,1107,FileUpload,200,OK,FileUploadTest 1-13,text,true,,3907,534734,9,9,http://practice.cybertekschool.com/upload,1106,0,127
+1664438786181,1108,FileUpload,200,OK,FileUploadTest 1-15,text,true,,3907,534734,8,8,http://practice.cybertekschool.com/upload,1108,0,137
+1664438786380,1066,FileUpload,200,OK,FileUploadTest 1-19,text,true,,3907,534743,7,7,http://practice.cybertekschool.com/upload,1064,0,185
+1664438786282,1164,FileUpload,200,OK,FileUploadTest 1-17,text,true,,3907,534743,7,7,http://practice.cybertekschool.com/upload,1164,0,225
+1664438786131,1315,FileUpload,200,OK,FileUploadTest 1-14,text,false,"The operation lasted too long: It took 1,315 milliseconds, but should not have lasted longer than 1,200 milliseconds.",3907,534737,7,7,http://practice.cybertekschool.com/upload,1315,0,127
+1664438786331,1122,FileUpload,200,OK,FileUploadTest 1-18,text,true,,3907,534731,4,4,http://practice.cybertekschool.com/upload,1122,0,196
+1664438786431,1022,FileUpload,200,OK,FileUploadTest 1-20,text,true,,3907,534731,4,4,http://practice.cybertekschool.com/upload,1022,0,161
+1664438786231,1222,FileUpload,200,OK,FileUploadTest 1-16,text,false,"The operation lasted too long: It took 1,222 milliseconds, but should not have lasted longer than 1,200 milliseconds.",3907,534761,4,4,http://practice.cybertekschool.com/upload,1221,0,273
+1664438785682,1941,FileUpload,200,OK,FileUploadTest 1-5,text,false,"The operation lasted too long: It took 1,941 milliseconds, but should not have lasted longer than 1,200 milliseconds.",3907,534734,1,1,http://practice.cybertekschool.com/upload,1941,0,124
